@@ -2,7 +2,7 @@
 
 ## Finished Product:
 
-https://github.com/user-attachments/assets/f4823ab2-7854-4d22-b1a7-26e148e27548
+https://github.com/user-attachments/assets/9d13a417-9f12-4017-b695-d22439f6d739
 
 ## Overview
 This project demonstrates how JavaScript can interact with HTML elements to dynamically update webpage content based on user input. Users can enter a username into a text field and submit it to display a personalized greeting.
